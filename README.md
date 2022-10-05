@@ -1,6 +1,6 @@
 
 # extmath
-# [![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg)](https://go.dev) [![License: GPL v3](https://img.shields.io/github/license/jdavid5815)](https://www.gnu.org/licenses/gpl-3.0) [![Issues](https://img.shields.io/github/issues/jdavid5815/extmath)](https://github.com/jdavid5815/extmath/issues) [![GoDoc](https://godoc.org/github.com/jdavid5815/extmath?status.svg)](https://godoc.org/github.com/jdavid5815/extmath)
+# [![Language Badge](https://img.shields.io/badge/Language-Go-blue.svg)](https://go.dev) [![License: GPL v3](https://img.shields.io/github/license/jdavid5815/extmath)](https://www.gnu.org/licenses/gpl-3.0) [![Issues](https://img.shields.io/github/issues/jdavid5815/extmath)](https://github.com/jdavid5815/extmath/issues) [![GoDoc](https://godoc.org/github.com/jdavid5815/extmath?status.svg)](https://godoc.org/github.com/jdavid5815/extmath)
 
 Extended Math Functions. This little library was developed as an aid for solving problems from [Project Euler](https://projecteuler.net). It might be extended if the need arises or when I find some time to solve a few more Euler Project problems.
 
